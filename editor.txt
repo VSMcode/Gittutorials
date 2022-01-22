@@ -11,7 +11,7 @@
 		<article><pre>
 				<p>Now the first commands of git which I have introduced as
 a beginner is Git User setup command these commands are 
-written below (don't forget to make your hands dirty with code):</p>
+written below (don't forget to make your hands dirty with code): oky</p>
 			</pre>
 
 
